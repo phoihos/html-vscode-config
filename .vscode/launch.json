@@ -12,7 +12,7 @@
         },
         {
             "name": "Launch with Edge",
-            "type": "edge",
+            "type": "msedge",
             "request": "launch",
             "file": "${file}"
         }
